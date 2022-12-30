@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Expense Tracker App
 
 #liveSite:  https://glittery-marzipan-2b1c2a.netlify.app/
 
